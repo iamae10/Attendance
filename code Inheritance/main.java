@@ -1,4 +1,7 @@
 package IndividualActivity;
+/*b) Create  subclass of Plane class and name it U-2 Spy Plane, which has the following properties and 
+methods(wing span and method fly());*/
+
 
 public class main {
 
